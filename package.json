@@ -1,0 +1,23 @@
+{
+  "name": "eslint-config-node",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [
+    "eslint",
+    "eslintconfig",
+    "node"
+  ],
+  "author": {
+    "name": "smart sweet",
+    "url": "https://github.com/threerocks"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/threerocks/eslint-config-node"
+  },
+  "license": "ISC"
+}
