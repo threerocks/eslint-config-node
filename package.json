@@ -1,6 +1,6 @@
 {
-  "name": "eslint-config-node",
-  "version": "1.0.0",
+  "name": "eslint-config-fornode",
+  "version": "1.0.2",
   "description": "",
   "main": "index.js",
   "scripts": {
@@ -12,7 +12,7 @@
     "node"
   ],
   "author": {
-    "name": "smart sweet",
+    "name": "threerocks",
     "url": "https://github.com/threerocks"
   },
   "repository": {
